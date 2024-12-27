@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "England women's cricket team not fit enough, says Alex Hartley",
+      "description": "England need to get fitter following their shambolic exit from the Women’s T20 World Cup, according to former spinner Alex Hartley.",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cpw5l84z4w4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/62ac/live/df28aae0-8b9f-11ef-8936-1185f9e7d044.jpg",
+      "publishedAt": "2024-10-16T09:37:18.1762024Z",
+      "content": "Hartley used the example of Australia, the premier team in the world, continuing to overlook leg-spinner Amanda-Jade Wellington, who has not played international cricket since 2022.\r\nAustralia have g… [+1553 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": null,
+      "title": "Aussie icon dropped in 40-year Ashes first",
+      "description": "Cricket Australia has confirmed the dates and venues for the 2025/26 Ashes, with the series opener moving away from Brisbane for the first time in more than four decades.",
+      "url": "https://www.news.com.au/sport/cricket/ashes-202526-dates-and-venues-revealed-with-iconic-venue-demoted/news-story/0ce3aac709f92e8fa86573abc709c6e2",
+      "urlToImage": "https://content.api.news/v3/images/bin/b42f222a5847978dc1bdb91096090f46",
+      "publishedAt": "2024-10-16T08:25:00Z",
+      "content": "Cricket Australia has confirmed the dates and venues for the 2025/26 Ashes, with the series opener moving away from Brisbane for the first time in more than four decades.\r\nThe first Test of the highl… [+2612 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "Pakistan vs England LIVE: second Test, day two, Multan – cricket score, radio commentary and text updates",
+      "description": "Pakistan host England in the second Test in Multan - follow text & score updates plus radio commentary.",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/c903x2p29k1t",
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+      "publishedAt": "2024-10-16T05:22:14.2693619Z",
+      "content": "Ffion WynneBBC Sport cricket writer\r\nMedia caption, England drop five catches as Windies knock them out of T20 World Cup\r\nPressure can do strange things in sport.\r\nIt can provide clarity - Trent Alex… [+643 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
